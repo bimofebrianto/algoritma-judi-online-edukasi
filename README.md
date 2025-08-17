@@ -5,14 +5,38 @@
 
 ---
 
+## ⚠️ PERINGATAN
+
+Repository ini dibuat **hanya untuk tujuan edukasi dan penyadaran**.  
+
+- 🎲 Judi online **dirancang agar pemain selalu kalah**.  
+- 💸 Kerugian finansial jangka panjang **tidak bisa dihindari** (Expected Value selalu negatif).  
+- 🧠 Risiko kecanduan sangat tinggi, merusak kesehatan mental, pekerjaan, dan hubungan sosial.  
+- 👨‍👩‍👧 Banyak keluarga hancur karena judi online.  
+
+🙏 Saya menulis ini **bukan untuk dianggap pahlawan**, tetapi hanya ingin **membantu menyelamatkan orang lain** agar tidak terjerumus ke dalam jebakan judi online.  
+
+---
+
+## 🚫 Saran
+
+- Jangan percaya iklan “menang mudah” atau “cuan instan” dari judi online.  
+- Jika ingin mencari penghasilan, pilihlah jalur yang **legal dan sehat** (misalnya investasi emas, saham, reksa dana, atau skill digital).  
+- Jika kamu atau orang di sekitarmu sudah kecanduan judi, **cari bantuan**:
+  - [WHO: Gambling & Gaming Disorder](https://www.who.int/news-room/fact-sheets/detail/gambling-and-gaming)
+  - Konseling lokal / layanan rehabilitasi
+  - Dukungan keluarga & teman  
+
+---
+
 ## 🔹 Bagaimana Sistem Bekerja
 
 1. **Random Number Generator (RNG)**  
-   - Digunakan untuk menghasilkan angka acak.
+   - Digunakan untuk menghasilkan angka acak.  
    - Pemain percaya hasil acak = adil, tapi sebenarnya selalu ada **house edge**.
 
 2. **House Edge (Keuntungan Rumah)**  
-   - Permainan selalu diatur agar keuntungan jangka panjang berpihak ke rumah.
+   - Permainan selalu diatur agar keuntungan jangka panjang berpihak ke rumah.  
    - Contoh: peluang menang 49%, kalah 51%, tapi payout dibayar seolah 50:50.  
    - Selisih inilah keuntungan operator.
 
@@ -63,6 +87,7 @@ EV = (0.49 \times 1) + (0.51 \times -1) = -0.02
 ✅ Memberikan edukasi matematis & teknis.  
 ✅ Membuka mata bahwa “algoritma adil” bukan berarti bisa menang jangka panjang.  
 ✅ Mengingatkan: judi online dirancang agar **pemain kalah**.  
+✅ Menyebarkan kesadaran agar semakin banyak orang yang **selamat dari jerat judi online**.  
 
 ---
 
